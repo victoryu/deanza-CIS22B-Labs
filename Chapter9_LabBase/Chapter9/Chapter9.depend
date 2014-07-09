@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1310752218 source:c:\users\yu\documents\schools\deanza\cis22b\labs\cis22b-labs\chapter9_labbase\bookinfo.cpp
+	"bookinfo.h"
+	<iostream>
+
+1310752218 c:\users\yu\documents\schools\deanza\cis22b\labs\cis22b-labs\chapter9_labbase\bookinfo.h
+	<string>
+
+1310752218 source:c:\users\yu\documents\schools\deanza\cis22b\labs\cis22b-labs\chapter9_labbase\cashier.cpp
+	"cashier.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1310752218 c:\users\yu\documents\schools\deanza\cis22b\labs\cis22b-labs\chapter9_labbase\cashier.h
+
+1310752218 source:c:\users\yu\documents\schools\deanza\cis22b\labs\cis22b-labs\chapter9_labbase\invmenu.cpp
+	"invmenu.h"
+	"bookinfo.h"
+	<iostream>
+
+1310752218 c:\users\yu\documents\schools\deanza\cis22b\labs\cis22b-labs\chapter9_labbase\invmenu.h
+
+1310752218 source:c:\users\yu\documents\schools\deanza\cis22b\labs\cis22b-labs\chapter9_labbase\mainmenu.cpp
+	"bookinfo.h"
+	"cashier.h"
+	"invmenu.h"
+	"reports.h"
+	<iostream>
+
+1310752218 c:\users\yu\documents\schools\deanza\cis22b\labs\cis22b-labs\chapter9_labbase\reports.h
+
+1310752218 source:c:\users\yu\documents\schools\deanza\cis22b\labs\cis22b-labs\chapter9_labbase\reports.cpp
+	"reports.h"
+	<iostream>
+
